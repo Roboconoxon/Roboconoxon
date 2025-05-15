@@ -2,5 +2,5 @@
 - 🌐 Website : https://roboconoxon.org.uk
 - 📍 Location : Abingdon, Oxfordshire, United Kingdom
 - 📫 Contact : robocon.oxfordshire@abingdon.org.uk
-- ⚡ Next Competition : Robocon Oxfordshire 2025 | 22-23th March, 2025 | Abingdon School
+- ⚡ Next Competition : Robocon Oxfordshire 2026 | ??-??th March, 2026 | Abingdon School
 
